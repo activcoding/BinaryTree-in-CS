@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tommyludwig/Documents/dev/Coding/C#/BinaryTree/C#.csproj",
+      "projectUniqueName": "/Users/tommyludwig/Documents/dev/Coding/C#/BinaryTree/BinaryTree-in-CS/C#.csproj",
       "projectName": "C#",
-      "projectPath": "/Users/tommyludwig/Documents/dev/Coding/C#/BinaryTree/C#.csproj",
+      "projectPath": "/Users/tommyludwig/Documents/dev/Coding/C#/BinaryTree/BinaryTree-in-CS/C#.csproj",
       "packagesPath": "/Users/tommyludwig/.nuget/packages/",
-      "outputPath": "/Users/tommyludwig/Documents/dev/Coding/C#/BinaryTree/obj/",
+      "outputPath": "/Users/tommyludwig/Documents/dev/Coding/C#/BinaryTree/BinaryTree-in-CS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tommyludwig/.nuget/NuGet/NuGet.Config"

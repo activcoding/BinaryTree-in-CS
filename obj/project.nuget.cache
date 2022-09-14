@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSXN5UPSrxelSPTqU6YjFtPje8E/LrQqQEO0GPhQ9Qf64xRJfGbqzs42UelJOMAu23RDYeOMux7A+h/cUYjS7A==",
+  "dgSpecHash": "1wiXF4jutbwgjjMxDreLrvczFJTwETo//eMRgwxO+WXGsgjIZSAny+48VWMtafrqfqVFJBtB1jTv7/711/Y+cQ==",
   "success": true,
-  "projectFilePath": "/Users/tommyludwig/Documents/dev/Coding/C#/BinaryTree/C#.csproj",
+  "projectFilePath": "/Users/tommyludwig/Documents/dev/Coding/C#/BinaryTree/BinaryTree-in-CS/C#.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
